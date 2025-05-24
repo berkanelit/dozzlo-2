@@ -1,0 +1,16 @@
+
+/**
+ * Minecraft Server List Gutenberg Block Editor Styles
+ */
+ 
+.wp-block-minecraft-server-list-server-status {
+    border: 1px dashed #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+.wp-block-minecraft-server-list-servers {
+    border: 1px dashed #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+}

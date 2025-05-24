@@ -1,0 +1,1283 @@
+# Copyright (C) 2024 VineThemes
+# This file is distributed under the GNU General Public License v2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dazzlo 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/dazzlo\n"
+"POT-Creation-Date: 2024-02-05 17:40:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:19
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "Sorry, but the page you are looking for has moved or no longer exists. Please use the search below, or the menu to locate the missing page."
+msgstr ""
+
+#: archive.php:74 inc/slider/slider.php:64 inc/slider/slider.php:132
+#: inc/slider/slider.php:199 index.php:92 layoutboxes.php:100
+#: layoutboxes.php:215 layoutboxes.php:314 layoutboxes.php:406
+msgid "0"
+msgstr ""
+
+#: archive.php:74 inc/slider/slider.php:64 inc/slider/slider.php:132
+#: inc/slider/slider.php:199 index.php:92 layoutboxes.php:100
+#: layoutboxes.php:215 layoutboxes.php:314 layoutboxes.php:406
+msgid "1"
+msgstr ""
+
+#: archive.php:74 inc/slider/slider.php:64 inc/slider/slider.php:132
+#: inc/slider/slider.php:199 index.php:92 layoutboxes.php:100
+#: layoutboxes.php:215 layoutboxes.php:314 layoutboxes.php:406
+msgid "%"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:393 class-tgm-plugin-activation.php:928
+#: class-tgm-plugin-activation.php:2634 class-tgm-plugin-activation.php:3681
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3260
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395 class-tgm-plugin-activation.php:3053
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:615
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:616
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:733
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1035
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1035 class-tgm-plugin-activation.php:1038
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1038
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1222 class-tgm-plugin-activation.php:3049
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: class-tgm-plugin-activation.php:2083
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2374
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2377
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2393
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2396
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2399
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2416
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2420
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2422 inc/about/about-dazzlo.php:72
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2431
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: class-tgm-plugin-activation.php:2443
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2489
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2493
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2497
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2501
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2583
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2591
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2599
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2634
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2648
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2649
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2650
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2654
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2655
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: class-tgm-plugin-activation.php:2704
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: class-tgm-plugin-activation.php:2709
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: class-tgm-plugin-activation.php:2715
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2785
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2818
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2824
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2827
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2858
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2860
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2901
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2903
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3009
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3035
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3259
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: class-tgm-plugin-activation.php:3599
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: class-tgm-plugin-activation.php:3602
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:3604
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3608
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:3610
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3610 class-tgm-plugin-activation.php:3618
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3610 class-tgm-plugin-activation.php:3618
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3611
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: class-tgm-plugin-activation.php:3613
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3616
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:3618
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3619
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: class-tgm-plugin-activation.php:3621
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:29
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: customizer.php:24 inc/about/about-dazzlo.php:183
+msgid "Dazzlo Premium"
+msgstr ""
+
+#: customizer.php:37 customizer.php:181 customizer.php:224 customizer.php:332
+#: customizer.php:418 customizer.php:503 customizer.php:586 customizer.php:668
+#: customizer.php:750 customizer.php:874 customizer.php:915 customizer.php:965
+msgid "Upgrade"
+msgstr ""
+
+#: customizer.php:38
+msgid "There are lots of reasons to upgrade to Pro version. Unlimited custom Colors, rich Typography options, multiple variation of Blog Feed layout and way much more. Also Premium Support included."
+msgstr ""
+
+#: customizer.php:39 inc/about/about-dazzlo.php:178
+#: inc/about/about-dazzlo.php:332
+msgid "Get Dazzlo Premium"
+msgstr ""
+
+#: customizer.php:42 customizer.php:44 inc/about/about-dazzlo.php:145
+msgid "Documentation"
+msgstr ""
+
+#: customizer.php:43
+msgid "Read how to customize the theme, set up widgets, and learn all the possible options available to you."
+msgstr ""
+
+#: customizer.php:47 customizer.php:49 inc/about/about-dazzlo.php:29
+msgid "Support"
+msgstr ""
+
+#: customizer.php:48
+msgid "For Dazzlo theme related questions feel free to post on our support forums."
+msgstr ""
+
+#: customizer.php:64 inc/about/about-dazzlo.php:5
+msgid "About Dazzlo"
+msgstr ""
+
+#: customizer.php:91
+msgid "Light Logo"
+msgstr ""
+
+#: customizer.php:103
+msgid "Dark Logo"
+msgstr ""
+
+#: customizer.php:114 customizer.php:129
+msgid "Top Information Bar"
+msgstr ""
+
+#: customizer.php:115
+msgid "Configure your Top Information bar here."
+msgstr ""
+
+#: customizer.php:133 customizer.php:254 customizer.php:359 customizer.php:445
+#: customizer.php:530 customizer.php:612 customizer.php:694
+msgid "Enable"
+msgstr ""
+
+#: customizer.php:134 customizer.php:255 customizer.php:360 customizer.php:446
+#: customizer.php:531 customizer.php:613 customizer.php:695
+msgid "Disable"
+msgstr ""
+
+#: customizer.php:148
+msgid "Information Bar Text"
+msgstr ""
+
+#: customizer.php:165
+msgid "Information Bar Link URL"
+msgstr ""
+
+#: customizer.php:195
+msgid "Header Designs"
+msgstr ""
+
+#: customizer.php:196
+msgid "Select Header Designs from here."
+msgstr ""
+
+#: customizer.php:207
+msgid "Header Design Layout"
+msgstr ""
+
+#: customizer.php:210
+msgid "Header 1"
+msgstr ""
+
+#: customizer.php:211
+msgid "Header 2"
+msgstr ""
+
+#: customizer.php:237
+msgid "Main Slider Options"
+msgstr ""
+
+#: customizer.php:238
+msgid "Configure your Main Slider here."
+msgstr ""
+
+#: customizer.php:250
+msgid "Homepage Main Slider"
+msgstr ""
+
+#: customizer.php:266
+msgid "Category for Main Slider"
+msgstr ""
+
+#: customizer.php:282
+msgid "Number of Posts for Main Slider"
+msgstr ""
+
+#: customizer.php:298
+msgid "Category for Before Slider Posts"
+msgstr ""
+
+#: customizer.php:314
+msgid "Category for After Slider Posts"
+msgstr ""
+
+#: customizer.php:342
+msgid "Small Slider Options"
+msgstr ""
+
+#: customizer.php:343
+msgid "Configure your Small Slider here."
+msgstr ""
+
+#: customizer.php:355
+msgid "Homepage Small Slider"
+msgstr ""
+
+#: customizer.php:371
+msgid "Category for Small Slider"
+msgstr ""
+
+#: customizer.php:387
+msgid "Category for Slider"
+msgstr ""
+
+#: customizer.php:402
+msgid "Number of Posts for Small Slider"
+msgstr ""
+
+#: customizer.php:429
+msgid "Layout Box1 Options"
+msgstr ""
+
+#: customizer.php:430
+msgid "Configure your Layout Box1 here."
+msgstr ""
+
+#: customizer.php:441
+msgid "Homepage Layout Box1"
+msgstr ""
+
+#: customizer.php:457
+msgid "Layout Box1 Title"
+msgstr ""
+
+#: customizer.php:472
+msgid "Category for Layout Box1"
+msgstr ""
+
+#: customizer.php:488
+msgid "Number of Posts for Layout Box1"
+msgstr ""
+
+#: customizer.php:514
+msgid "Layout Box2 Options"
+msgstr ""
+
+#: customizer.php:515
+msgid "Configure your Layout Box2 here."
+msgstr ""
+
+#: customizer.php:526
+msgid "Homepage Layout Box2"
+msgstr ""
+
+#: customizer.php:542
+msgid "Layout Box2 Title"
+msgstr ""
+
+#: customizer.php:557
+msgid "Category for Layout Box2"
+msgstr ""
+
+#: customizer.php:571
+msgid "Number of Posts for Layout Box2"
+msgstr ""
+
+#: customizer.php:596
+msgid "Layout Box3 Options"
+msgstr ""
+
+#: customizer.php:597
+msgid "Configure your Layout Box3 here."
+msgstr ""
+
+#: customizer.php:608
+msgid "Homepage Layout Box3"
+msgstr ""
+
+#: customizer.php:624
+msgid "Layout Box3 Title"
+msgstr ""
+
+#: customizer.php:639
+msgid "Category for Layout Box3"
+msgstr ""
+
+#: customizer.php:653
+msgid "Number of Posts for Layout Box3"
+msgstr ""
+
+#: customizer.php:678
+msgid "Layout Box4 Options"
+msgstr ""
+
+#: customizer.php:679
+msgid "Configure your Layout Box4 here."
+msgstr ""
+
+#: customizer.php:690
+msgid "Homepage Layout Box4"
+msgstr ""
+
+#: customizer.php:706
+msgid "Layout Box4 Title"
+msgstr ""
+
+#: customizer.php:721
+msgid "Category for Layout Box4"
+msgstr ""
+
+#: customizer.php:735
+msgid "Number of Posts for Layout Box4"
+msgstr ""
+
+#: customizer.php:761
+msgid "General Options"
+msgstr ""
+
+#: customizer.php:762
+msgid "Configure Your Theme Settings Here."
+msgstr ""
+
+#: customizer.php:774
+msgid "Latest Posts Title"
+msgstr ""
+
+#: customizer.php:793
+msgid "Hide Top Search Icon"
+msgstr ""
+
+#: customizer.php:806
+msgid "Disable Responsive"
+msgstr ""
+
+#: customizer.php:819
+msgid "Disable Sidebar on Homepage and Archive Pages"
+msgstr ""
+
+#: customizer.php:832
+msgid "Disable Sidebar on Posts"
+msgstr ""
+
+#: customizer.php:845
+msgid "Disable Sidebar on Pages"
+msgstr ""
+
+#: customizer.php:859
+msgid "Disable Author Box on Posts"
+msgstr ""
+
+#: customizer.php:884
+msgid "Footer Settings"
+msgstr ""
+
+#: customizer.php:885
+msgid "Configure Your Footer Here. You can't change our footer links in the free version of this theme."
+msgstr ""
+
+#: customizer.php:898
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: customizer.php:946
+msgid "Main Color"
+msgstr ""
+
+#: dazzlo_custom_controller.php:15
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: footer.php:50
+msgid "Copyright &copy; 2024. All Rights Reserved."
+msgstr ""
+
+#: footer.php:55
+msgid "Designed by"
+msgstr ""
+
+#: footer.php:56
+msgid "VineThemes"
+msgstr ""
+
+#: full-width.php:50 page.php:49 single.php:91 single.php:93
+msgid "Read More"
+msgstr ""
+
+#: functions.php:67
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:183
+msgid "Below Slider"
+msgstr ""
+
+#: functions.php:185
+msgid "This widget area is for Newsletter, Ads, Most popular widgets, etc."
+msgstr ""
+
+#: functions.php:192
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:194
+msgid "Widgets in this area will be shown on the sidebar of all pages."
+msgstr ""
+
+#: functions.php:199
+msgid "Footer Top"
+msgstr ""
+
+#: functions.php:205
+msgid "Use the \"Footer Top\" widget here."
+msgstr ""
+
+#: functions.php:208
+msgid "Instagram Footer"
+msgstr ""
+
+#: functions.php:214
+msgid "Use the \"Instagram\" widget here. IMPORTANT: For best result set number of photos to 8."
+msgstr ""
+
+#: functions.php:218
+msgid "Footer Left"
+msgstr ""
+
+#: functions.php:220 functions.php:227 functions.php:234
+msgid "This widget area is for Footer Widgets."
+msgstr ""
+
+#: functions.php:225
+msgid "Footer Center"
+msgstr ""
+
+#: functions.php:232
+msgid "Footer Right"
+msgstr ""
+
+#: functions.php:245
+msgid "Thank you for choosing Dazzlo! Now, we highly recommend you to visit our welcome page."
+msgstr ""
+
+#: functions.php:246
+msgid "Get Started with Dazzlo"
+msgstr ""
+
+#. translators: %s: comment author link
+
+#: functions.php:278
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#. translators: %s: comment date
+
+#: functions.php:279
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:291
+msgid "Edit"
+msgstr ""
+
+#: functions.php:299
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:408
+msgid "Posted By"
+msgstr ""
+
+#: header.php:34
+msgid "Skip to main content"
+msgstr ""
+
+#: header.php:45 header.php:53
+msgid "Subscribe to get new recipes"
+msgstr ""
+
+#: header.php:88 header.php:89 header.php:127 header.php:128 header.php:164
+#: header.php:238 header.php:239 header.php:277 header.php:278 header.php:314
+#: header.php:389 header.php:390 header.php:428 header.php:429 header.php:465
+msgid "Header image"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:13
+msgid "Welcome to Dazzlo!"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:15
+msgid "Dazzlo is free blog news WordPress theme. It's perfect for any kind of blog: personal, multi-author, blog-news, lifestyle, etc... Is fully Responsive and Retina Display ready, clean, modern and minimal. Coded with latest WordPress' standards."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:23
+msgid "Getting Started"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:26
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:32
+msgid "Free vs Premium"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:44
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:46
+msgid "Highly recommended to begin with this, read the full theme documentation to understand the basics and even more details about how to use Dazzlo. It is worth to spend 10 minutes and know almost everything about the theme."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:48
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:53
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:55
+msgid "All theme options are located here. After reading the Theme Documentation we recommend you to open the Theme Customizer and play with some options. You will enjoy it."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:57
+msgid "Customize Your Site"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:64
+msgid "Dazzlo Premium - Predefined Styles"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:66
+msgid "Dazzlo Premium's powerful setup allows you to easily create unique looking sites. Here are a few included examples that can be installed with one click in the "
+msgstr ""
+
+#: inc/about/about-dazzlo.php:67
+msgid "Dazzlo Premium Theme."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:68
+msgid "More details in the theme Documentation."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:75
+msgid "Version 1"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:76 inc/about/about-dazzlo.php:83
+#: inc/about/about-dazzlo.php:90
+msgid "Live Preview"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:82
+msgid "Version 2"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:89
+msgid "Version 3"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:102
+msgid "Recommended Plugins are fully supported by Dazzlo theme. They well build the theme by giving more and more features. These are highly recommended to install."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:109
+msgid "Kirki"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:109
+msgid "Theme advanced customizer options."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:112
+msgid "Mailchimp"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:112
+msgid "Mail newsletters. Simple but flexible."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:115
+msgid "WP Instagram Widget"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:115
+msgid "A WordPress widget for showing your latest Instagram photos."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:133
+msgid "Forums"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:136
+msgid "Before asking a questions it's highly recommended to search on forums, but if you can't find the solution feel free to create a new topic."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:138
+msgid "Go to Support Forums"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:148
+msgid "Need more details? Please check out dazzlo Theme Documentation for detailed information."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:150
+msgid "Read Full Documentation"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:158
+msgid "Donation"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:161
+msgid "Even a small sum can help us a lot with theme development. If the dazzlo theme is useful and our support is helpful, please don't hesitate to donate a little bit, at least buy us a Coffee or a Beer :)"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:163
+msgid "Donate with PayPal"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:182
+msgid "Dazzlo"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:189
+msgid "100% Responsive and Retina Ready"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:190
+msgid "Theme adapts to any kind of device screen, from mobile phones to high resolution Retina displays."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:197
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:198
+msgid "Each hard-coded string is ready for translation, means you can translate everything. Language \"dazzlo.pot\" file included."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:205
+msgid "MailChimp Support"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:206
+msgid "The most popular email client plugin. Very simple but super flexible."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:213
+msgid "Image &amp; Text Logos"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:214
+msgid "Upload your logo image(set the size) or simply type your text logo."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:221
+msgid "Featured Posts Slider"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:223
+msgid "Showcase unlimited number of Blog Posts in header area. There are three Slider designs."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:231
+msgid "Background Image/Color"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:232
+msgid "Set the custom body Background image or Color."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:240
+msgid "Header Background Image/Color"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:242
+msgid "Set the custom header Background image or Color."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:250
+msgid "Instagram Widget Area"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:252
+msgid "Set your Instagram Images in the footer."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:261
+msgid "Post Layouts"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:262
+msgid "Standard, List and Grid Blog Feed layout."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:269
+msgid "Multi-level Sub Menu Support"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:270
+msgid "Unlimited level of sub menus. Add as much as you need."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:277
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:279
+msgid "Right Widgetised area."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:288
+msgid "Unlimited Colors"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:289
+msgid "Tons of color options. You can customize your Header, Content and Footer separately as much as possible."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:296
+msgid "800+ Google Fonts"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:297
+msgid "Rich Typography options. Choose from more than 800 Google Fonts, adjust Size, Line Height, Font Weight, etc..."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:304
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:305 inc/about/about-dazzlo.php:313
+msgid "Choose from 1 up to 4 columns grid layout for your Blog Feed."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:312
+msgid "List Layout"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:320
+msgid "Advanced Footer Options"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:321
+msgid "Theme and Author credit links in the footer are automatically removed."
+msgstr ""
+
+#: inc/about/about-dazzlo.php:372
+msgid "Installed"
+msgstr ""
+
+#: inc/about/about-dazzlo.php:375
+msgid "Install Now"
+msgstr ""
+
+#: inc/slider/slider.php:47 inc/slider/slider.php:115 inc/slider/slider.php:182
+#: inc/slider/small-slider.php:47 layoutboxes.php:80 layoutboxes.php:194
+#: layoutboxes.php:290 layoutboxes.php:386
+msgid "No Image"
+msgstr ""
+
+#: inc/widgets/about_widget.php:20
+msgid "An About Me Widget"
+msgstr ""
+
+#: inc/widgets/about_widget.php:26
+msgid "Dazzlo: About Me"
+msgstr ""
+
+#: inc/widgets/about_widget.php:109
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/about_widget.php:115
+msgid "Image URL"
+msgstr ""
+
+#: inc/widgets/about_widget.php:121
+msgid "Sub title"
+msgstr ""
+
+#: inc/widgets/about_widget.php:127
+msgid "About me text"
+msgstr ""
+
+#: inc/widgets/about_widget.php:133
+msgid "Autograph Image URL"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:19
+msgid "A post widget that can display your latest posts, posts from a category, or hand-picked posts by ID."
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:25
+msgid "Dazzlo: Post Widget"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:97
+msgid "Default"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:141
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:146
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:152
+msgid "Choose Layout"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:154
+msgid "Small Thumbnail"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:155
+msgid "Text Only List"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:161
+msgid "Filter by Category"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:163
+msgid "All categories"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:173
+msgid "Post IDs (separate with comma):"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:175
+msgid "Display specific posts using post IDs. This option will override the category option above."
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:180
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:186
+msgid "Add Numbering"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:192
+msgid "Hide Date"
+msgstr ""
+
+#: layoutboxes.php:13
+msgid "SEE MORE POSTS"
+msgstr ""
+
+#: searchform.php:11 searchform.php:12 searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: single.php:81
+msgid "0 Comment"
+msgstr ""
+
+#: single.php:81
+msgid "1 Comment"
+msgstr ""
+
+#: single.php:81
+msgid "% Comments"
+msgstr ""
+
+#: template-nav.php:17
+msgid "Previous Post"
+msgstr ""
+
+#: template-nav.php:35
+msgid "Next Post"
+msgstr ""
+
+#: template-nav.php:57
+msgid "Posts navigation"
+msgstr ""
+
+#: theme-options.php:38
+msgid "Typography"
+msgstr ""
+
+#: theme-options.php:39
+msgid "This panel will provide all the webfonts for your website."
+msgstr ""
+
+#: theme-options.php:48
+msgid "Website Fonts, Colors, Style"
+msgstr ""
+
+#: theme-options.php:49
+msgid "You can change Website webfonts, colors, typography from here."
+msgstr ""
+
+#: theme-options.php:60
+msgid "This is only available in Premium Version. <br/><a target=\"_blank\" href=\"https://www.vinethemes.com/downloads/dazzlo-blog-news-wordpress-theme/\"> + Upgrade to Premium Version</a>"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Dazzlo"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.vinethemes.com/downloads/dazzlo-blog-news-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Dazzlo Blog News WordPress Theme is the ultimate solution for your blog news! It not only boasts a sleek and modern design but also ensures your content gets the attention it deserves on the internet. Dazzlo News WP theme that not only looks good on any device but also gives you the power to live customize it according to your unique style and brand. With quick loading times, your readers will love the seamless experience as they navigate through your latest news. Our latest news magazine theme comes with built-in SEO optimization. That means your news headlines have a better shot at claiming the top spots in Google searches. We've gone the extra mile by incorporating SEO-friendly blog news WordPress theme making sure your content shines across a variety of search queries. So, why settle for the ordinary when you can stand out? Dazzlo Blog News WordPress Theme is your ticket to not just keeping up but staying ahead in the game. It's time to turn your blog into a captivating hub for information enthusiasts. Ready to make an impact? Download and install the news headlines WordPress theme today, and let your stories take the center stage! Theme Demo here https://www.vinethemes.com/themes?theme=Dazzlo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VineThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.vinethemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""

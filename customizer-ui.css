@@ -1,0 +1,7 @@
+li#accordion-section-dazzlo_pro h3 {
+    color: #fff!important;
+    background-color: #008EC2!important;
+}
+li#accordion-section-dazzlo_pro h3:after {
+    color:#fff!important;
+}

@@ -1,0 +1,91 @@
+
+/**
+ * Minecraft Server List Frontend Styles
+ */
+
+/* Notification toast styles for copy IP action */
+.notification-toast {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    max-width: 350px;
+    min-width: 250px;
+    background-color: white;
+    color: #333;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    display: flex;
+    padding: 15px;
+    z-index: 9999;
+    transform: translateY(20px);
+    opacity: 0;
+    transition: transform 0.3s, opacity 0.3s;
+    overflow: hidden;
+}
+
+.notification-toast.show {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.notification-success {
+    border-left: 4px solid #4CAF50;
+}
+
+.notification-error {
+    border-left: 4px solid #F44336;
+}
+
+.notification-warning {
+    border-left: 4px solid #FFC107;
+}
+
+.notification-info {
+    border-left: 4px solid #2196F3;
+}
+
+.notification-icon {
+    margin-right: 12px;
+    font-size: 20px;
+    flex-shrink: 0;
+}
+
+.notification-success .notification-icon {
+    color: #4CAF50;
+}
+
+.notification-error .notification-icon {
+    color: #F44336;
+}
+
+.notification-warning .notification-icon {
+    color: #FFC107;
+}
+
+.notification-info .notification-icon {
+    color: #2196F3;
+}
+
+.notification-message {
+    flex: 1;
+    font-size: 14px;
+    padding-right: 10px;
+}
+
+.notification-close {
+    background: none;
+    border: none;
+    color: #999;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+    flex-shrink: 0;
+}
+
+.notification-close:hover {
+    color: #333;
+}
+
+/* Add more custom styles here */
